@@ -810,12 +810,12 @@ section {
 # Why Us
 --------------------------------------------------------------*/
 .why-us {
-  background-color: rgb(193, 231, 117);
+  background-color: #fff;
 }
 
 .why-us .content {
   padding: 30px;
-  background: #5fcf80;
+  background: rgb(196, 4, 4);
   border-radius: 50px;
   color: #fff;
 }
