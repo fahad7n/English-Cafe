@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #1b1a1a;
+  color: #fff;
 }
 
 a {
@@ -115,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgb(193, 231, 117);
+  background: #fff;
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -343,7 +343,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #37423b;
+  color: rgb(156, 8, 8);
 }
 
 .mobile-nav {
@@ -737,7 +737,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about{
-  background-color: rgb(193, 231, 117);
+  background-color: #6a7c8a);
 }
 
 .about .content h3 {
