@@ -761,7 +761,7 @@ section {
 }
 
 .about .content .learn-more-btn {
-  background: #e70c0c;
+  background: rgba(62, 25, 226, 0.911);
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px 9px 25px;
@@ -772,7 +772,7 @@ section {
 }
 
 .about .content .learn-more-btn:hover {
-  background: #3ac162;
+  background: #ff3419;
   color: #fff;
 }
 
