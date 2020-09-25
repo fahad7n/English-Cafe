@@ -343,7 +343,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: rgb(156, 8, 8);
+  color: rgb(78, 11, 236);
 }
 
 .mobile-nav {
@@ -378,7 +378,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #5fcf80;
+  color: #f00606;
   text-decoration: none;
 }
 
