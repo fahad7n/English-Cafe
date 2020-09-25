@@ -737,7 +737,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about{
-  background-color: #6a7c8a;
+  background-color: rgb(150, 172, 187);
 }
 
 .about .content h3 {
