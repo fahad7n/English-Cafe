@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #fff;
+  color: rgb(12, 12, 12);
 }
 
 a {
@@ -315,7 +315,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #3ac162;
+  background:   #3b3780;
   color: #fff;
 }
 
