@@ -789,11 +789,14 @@ section {
 .counts {
   padding: 30px 0;
 }
+.section-bg{
+  background-color: rgb(24, 13, 85);
+}
 
 .counts .counters span {
   font-size: 48px;
   display: block;
-  color: #5fcf80;
+  color:  #fff;
   font-weight: 700;
 }
 
@@ -803,7 +806,7 @@ section {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color:#37423b;
+  color:  #fff;
 }
 
 /*--------------------------------------------------------------
